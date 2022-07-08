@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jul  8 10:04:59 2022
+# Process ID: 123786
+# Current directory: /home/youri/fpga_labs_sp22/lab1/build/impl
+# Command line: wbtcv -mode batch -source /home/youri/fpga_labs_sp22/lab1/build/impl/.Xil/Vivado-123550-youri-400TDA-400SDA/webtalk/labtool_webtalk.tcl -notrace
+# Log file: /home/youri/fpga_labs_sp22/lab1/build/impl/webtalk.log
+# Journal file: /home/youri/fpga_labs_sp22/lab1/build/impl/webtalk.jou
+#-----------------------------------------------------------
+source /home/youri/fpga_labs_sp22/lab1/build/impl/.Xil/Vivado-123550-youri-400TDA-400SDA/webtalk/labtool_webtalk.tcl -notrace
